@@ -18,6 +18,7 @@ obfs4 65.108.58.113:10100 cert=bT/Q06UFKf4vrXAn4k+KiGV2tqsQLD3A2Su+jq43vSeJhLPz5
 obfs4 65.108.82.81:443 cert=8CWjzUIVfvqMLu4NBI4qUQxux9efC3/Prm/b/8E+ArXrldB4wh22Xi2EW/MUuzXHk2FvMw iat-mode=0
 obfs4 65.108.215.202:8045 cert=SOlb6ydnCX4jAHx34SrOquFDNRZ2w10VMuoWj64UG/nA8oym2QJv6UmOfAHBODLS4K2iZw iat-mode=0
 obfs4 70.53.252.78:23134 cert=C8PzGpGpGJkOJqxhZM2Q5RxzVHx+qcjVNwUSsEcX/bPXX3AsSfjyw/d47Kf7/VehS+CcWg iat-mode=0
+obfs4 79.23.216.18:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
 obfs4 79.212.126.100:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
 obfs4 81.6.40.95:993 cert=OUUn9P4Nj0qJ/B9VCFLqG8UExJ06I4kITYIgOKF8XP+UhaOuUSw6R/6NUfFtBiRx6oG/EA iat-mode=0
 obfs4 81.172.57.170:37869 cert=JRzAMixhxjvujQ+NB1aNw/aQM0wsXH8bnMrYUDsDaZRfOlZiZayOvDrgKo3PGiUZ6O73SA iat-mode=0
