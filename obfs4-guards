@@ -8,6 +8,7 @@ obfs4 37.120.168.74:123 cert=L9YEqHmQIHgp/sClACFg4xNeGjXay+tm1qCslbOdIbBzJanxq+E
 obfs4 45.33.41.55:9002 cert=7O3SXdDcXqoVpJo3w8xKLplfuw7ywfif4Au1ewzjs9yIxYocm8PzaTy1k7RcCEEBEfmFPA iat-mode=0
 obfs4 45.33.123.222:9003 cert=AsNDHRPNo+NW8dnnXhNU2QLMDmMmt042QKC1JhAxBSwUGNSBUdplRN86i1qpK2qvKn4neQ iat-mode=0
 obfs4 45.61.186.160:9002 cert=oKBu5Ywhx54Qr94zuyP5lnR73dzj7EpIthZeQCXfQpUjxqJlvSIva+QwyFqMDuSNY3uqcg iat-mode=0
+obfs4 46.8.19.146:41501 cert=EDzxXKn9IaEAJsanJf/+Z1rqbwagLkbWQaBGDyzPbrAGUgETuQPUtxrdnbwyjghrTXtsMA iat-mode=0
 obfs4 46.200.9.216:9996 cert=1Hny0/67/JxaG2vTurxM8o3wnB1f6UZ3Vry8TDQeKPV/GniNLgn7jsoUnU7MHJMVXKHsJg iat-mode=0
 obfs4 46.200.9.216:9997 cert=1Hny0/67/JxaG2vTurxM8o3wnB1f6UZ3Vry8TDQeKPV/GniNLgn7jsoUnU7MHJMVXKHsJg iat-mode=0
 obfs4 50.7.8.141:33723 cert=ft/9PRlYwq+sBiXar9Q8U6mMJbkpcQAtxoHYarXM8fS5VDcYIIHU23XafNZ9UUgTBoYzBA iat-mode=0
@@ -17,6 +18,7 @@ obfs4 62.182.84.46:1194 cert=nXs2OpqldnOUo9BVacPLb9gtD+kv9+4DGT7TM/pz3Uzm/pv7SxJ
 obfs4 65.108.58.113:10100 cert=bT/Q06UFKf4vrXAn4k+KiGV2tqsQLD3A2Su+jq43vSeJhLPz5Z+2VQJv/DNsNjZahLA2Kg iat-mode=0
 obfs4 65.108.82.81:443 cert=8CWjzUIVfvqMLu4NBI4qUQxux9efC3/Prm/b/8E+ArXrldB4wh22Xi2EW/MUuzXHk2FvMw iat-mode=0
 obfs4 65.108.215.202:8045 cert=SOlb6ydnCX4jAHx34SrOquFDNRZ2w10VMuoWj64UG/nA8oym2QJv6UmOfAHBODLS4K2iZw iat-mode=0
+obfs4 69.174.154.221:4977 cert=Oh00q0WYgNCkI7sYF5hmJ//Elivlm2/TrvphIeS7m02dDO69pjOEwOphuWk6EQ3Roz00SQ iat-mode=0
 obfs4 70.53.252.78:23134 cert=C8PzGpGpGJkOJqxhZM2Q5RxzVHx+qcjVNwUSsEcX/bPXX3AsSfjyw/d47Kf7/VehS+CcWg iat-mode=0
 obfs4 79.23.216.18:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
 obfs4 79.212.126.100:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
@@ -66,5 +68,6 @@ obfs4 194.108.49.124:993 cert=L2Gib5je1BxhQZDKSPQK8JlOMqwPz4z4BSjncOc1HSCXDiUp7f
 obfs4 194.124.229.52:4845 cert=GzZJ67zVJONSW399z8TiwtPrOx13l8OuAdaS1v9xY/meX35GwV9EDTmhFrwfs2q3G24Mcg iat-mode=0
 obfs4 194.236.135.26:4433 cert=TpLUZXhfL+8njmWnn0Ku85U2FFKvgWta04GPit657byYKCbxAeEm+O65+Ivb0RopXpH3Dg iat-mode=0
 obfs4 198.98.107.209:443 cert=Ckpme3QVBN/Ato52CjKDehPlq64zWX0b/EcuvzpEt7d2cjx+ao0ifu/lUL9RZFshqC0mQg iat-mode=0
+obfs4 205.185.115.87:8443 cert=ENXGMJ6C8QajPv5MkBcGirMizLJkSn0W1SraK3AKPP/sJJzBMptDLdfHnpeDDnUEkXguDQ iat-mode=0
 obfs4 208.68.7.129:8080 cert=OEPSXpIKplNzoSi27n150zE9dmlaRrUuaLlfQzQUZMrbd2nxVjMn/44bX5kIUBWa2TpRFA iat-mode=0
 obfs4 209.141.34.204:25565 cert=DrTuJgZGFwKKHeusqPrAKuPdg37P/XDFPZ2KOQzEPSlHcHlIrPH+YCEGIimBGMUXvt5AFA iat-mode=0
