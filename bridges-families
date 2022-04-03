@@ -1,6 +1,5 @@
-# Tor bridges families based on discovered IPs
+Tor bridges families based on discovered IPs
 
-```
 https://metrics.torproject.org/rs.html#search/ForPrivacyNET%20type:bridge%20
 
 IPs: 185.177.207.*
@@ -93,4 +92,3 @@ Others:
 212.227.148.245
 212.227.149.217
 212.227.203.59
-```
