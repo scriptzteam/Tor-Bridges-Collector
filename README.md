@@ -1,6 +1,6 @@
 # Tor-Bridges-Collector
 
-Collecting Tor Bridges
+Collecting Tor Bridges.
 
 Backups:
 ```
