@@ -2,6 +2,10 @@
 
 Collecting Tor Bridges.
 
+This is to show how broken Tor bridges distribution are.
+Please fix your system!
+P.S.: We are against oppressive regimes!
+
 Backups:
 ```
 https://codeberg.org/scriptzteam/Tor-Bridges-Collector
