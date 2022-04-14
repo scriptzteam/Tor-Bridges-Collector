@@ -2,4 +2,6 @@
 
 Collecting Tor Bridges
 
-Backup: https://codeberg.org/scriptzteam/Tor-Bridges-Collector
+Backups: 
+https://codeberg.org/scriptzteam/Tor-Bridges-Collector
+https://tor-bridges-collector.0xc0d3.xyz/
