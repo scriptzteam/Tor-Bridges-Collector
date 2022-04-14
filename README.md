@@ -2,9 +2,12 @@
 
 Collecting Tor Bridges.
 
+Why?
+```
 This is to show how broken Tor bridges distribution are.
 Please fix your system!
 P.S.: We are against oppressive regimes!
+```
 
 Backups:
 ```
