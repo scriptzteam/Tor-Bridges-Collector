@@ -21,5 +21,5 @@ Obfs4 bridges makes Tor traffic look random, and also prevents censors from find
 
 Snowflake bridges are improvement upon Flashproxy. It sends your traffic through WebRTC, a peer-to-peer protocol with built-in NAT punching. 
 
-Vanilla bridges are nobfuscated bridges.
+Vanilla bridges are unobfuscated bridges.
 ```
