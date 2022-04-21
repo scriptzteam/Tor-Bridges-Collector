@@ -96,7 +96,7 @@ Others:
 
 ----------------------------------------------------------------------------------
 
-Tor bridges IPs that runs obfs4 and also snowflake on same IP (based on duplicate ips in bridges-obfs4-guards + bridges-snowflake):
+Tor bridges IPs that runs obfs4 and also snowflake on same IP (based on duplicate IPs in bridges-obfs4-guards + bridges-snowflake):
 
 23.94.120.176
 37.120.171.27
