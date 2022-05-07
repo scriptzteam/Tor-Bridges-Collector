@@ -38,6 +38,7 @@ obfs4 78.193.41.59:31477 cert=3NaaWAVgh8lnbwCVobp97RWCYuf/QqWSUhcrCRqAVP3g/4cmTh
 obfs4 79.23.216.18:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
 obfs4 79.212.126.100:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
 obfs4 80.116.138.141:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
+obfs4 80.142.187.105:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
 obfs4 81.6.40.95:993 cert=OUUn9P4Nj0qJ/B9VCFLqG8UExJ06I4kITYIgOKF8XP+UhaOuUSw6R/6NUfFtBiRx6oG/EA iat-mode=0
 obfs4 81.172.57.170:37869 cert=JRzAMixhxjvujQ+NB1aNw/aQM0wsXH8bnMrYUDsDaZRfOlZiZayOvDrgKo3PGiUZ6O73SA iat-mode=0
 obfs4 82.161.210.87:1494 cert=bXEnqcBaeadJE9AmwpUW2E3OPgr8b7NENBarrvDiHVG3ebvodC82BtXXCShrXbP9Ng1JXw iat-mode=0
