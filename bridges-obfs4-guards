@@ -66,6 +66,7 @@ obfs4 79.212.126.100:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12j
 obfs4 80.116.138.66:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
 obfs4 80.116.138.141:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
 obfs4 80.116.242.164:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
+obfs4 80.142.181.70:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
 obfs4 80.142.187.105:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
 obfs4 80.142.188.109:31201 cert=d72PBj6uzl7CI2zNdHyJx49Uqqg272Amwufkr4AhdeAND12jVdsjeFylZozNf/tCZewkbQ iat-mode=0
 obfs4 80.183.64.68:8462 cert=j2geErZKEPNLddf1wlTAt6rFTRImeeuAzUiAMNf8ywmPSul3zB4nS4phPu23zAD5TGEsIQ iat-mode=0
@@ -108,6 +109,7 @@ obfs4 88.207.120.52:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqM
 obfs4 88.207.120.56:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.120.103:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.120.142:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
+obfs4 88.207.120.148:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.120.149:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.120.155:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.120.156:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
@@ -140,9 +142,11 @@ obfs4 88.207.121.150:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUq
 obfs4 88.207.121.164:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.121.178:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.121.203:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
+obfs4 88.207.121.237:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.121.243:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.121.254:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.122.3:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
+obfs4 88.207.122.23:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.122.38:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.122.74:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.122.75:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
@@ -166,6 +170,8 @@ obfs4 88.207.123.159:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUq
 obfs4 88.207.123.196:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.123.200:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
 obfs4 88.207.123.242:34593 cert=+99yamvUgVgMNlPwEYVF/JD/a1whtZN241JDcpjgtxpNfKUqMBE2zMAHGrxyTtyieBJrbQ iat-mode=0
+obfs4 88.217.42.245:8651 cert=RspsswqWuomT9tLLRAAaxfR1NfrtOdviCTfCt4X5o6OE8Vwj0l7f+MGTekDk+luv2W75KA iat-mode=0
+obfs4 88.217.45.171:8651 cert=RspsswqWuomT9tLLRAAaxfR1NfrtOdviCTfCt4X5o6OE8Vwj0l7f+MGTekDk+luv2W75KA iat-mode=0
 obfs4 90.51.52.47:9878 cert=55RKzYj1ZnQHS6ZKcZWPKtywvM+43PKCAPByzIg9NJatF58ZwdARuq0xH5eFRibmvOkJFg iat-mode=0
 obfs4 90.113.16.208:9878 cert=55RKzYj1ZnQHS6ZKcZWPKtywvM+43PKCAPByzIg9NJatF58ZwdARuq0xH5eFRibmvOkJFg iat-mode=0
 obfs4 91.213.8.89:46514 cert=jS6PhtKxG9DkqXVuhhVRULb1NfCswVfV7eCI46ysMJxdhTMjOpCSRlLPXy0R8seBYibOCw iat-mode=0
@@ -195,9 +201,11 @@ obfs4 109.63.226.183:29669 cert=lYFE0FxlMVX86QEwWtiAKqpLavpLANhuy4aG2cdKYD7P0G3L
 obfs4 109.130.20.208:60530 cert=G0adq8u0mfD4fZoviyxPz9kXmM5BO5H1oUSl6wXvpBBPCTwwBRIQ6dHCKiBtrE4S7Lu9AA iat-mode=0
 obfs4 109.190.177.33:7777 cert=Vf8A2wH05KO1UpO55OrL3zOuGVqCJmXyYtQyRfFUHScYddA2oX22Go134+O83corH6pyBQ iat-mode=0
 obfs4 115.70.167.41:20546 cert=JwlsPYZDzof8QGLj9hswAPptWnDlFX+vNKsNPIRGzZONw6Mmc4PCoriX4btOTOTL3FQDRA iat-mode=0
+obfs4 116.108.88.152:64786 cert=HG545QOVQ981Xxw5NCewM7xcggdbwyAZM+ZS4IBcYKvVUG/SaJnuCP2UIvpO2OUiR3mRJA iat-mode=0
 obfs4 116.108.90.246:64786 cert=HG545QOVQ981Xxw5NCewM7xcggdbwyAZM+ZS4IBcYKvVUG/SaJnuCP2UIvpO2OUiR3mRJA iat-mode=0
 obfs4 116.109.16.63:64786 cert=HG545QOVQ981Xxw5NCewM7xcggdbwyAZM+ZS4IBcYKvVUG/SaJnuCP2UIvpO2OUiR3mRJA iat-mode=0
 obfs4 116.109.31.232:64786 cert=HG545QOVQ981Xxw5NCewM7xcggdbwyAZM+ZS4IBcYKvVUG/SaJnuCP2UIvpO2OUiR3mRJA iat-mode=0
+obfs4 116.109.182.79:64786 cert=HG545QOVQ981Xxw5NCewM7xcggdbwyAZM+ZS4IBcYKvVUG/SaJnuCP2UIvpO2OUiR3mRJA iat-mode=0
 obfs4 116.203.152.195:4335 cert=rzKsvTqd+MfqvVTY2yjtfvow3bI6MTvtSXMH+FR29iZD7QmsVlUqPu2IWzoXXA6AOuwhJA iat-mode=0
 obfs4 116.203.152.195:4335 cert=rzKsvTqd+MfqvVTY2yjtfvow3bI6MTvtSXMH+FR29iZD7QmsVlUqPu2IWzoXXA6AOuwhJA,iat-mode=0
 obfs4 118.166.52.5:9030 cert=1BoZbdHR/hPOjhuXpSzftBQ0/X+FjHMGx/gSKOfZSkzQLWvGCzuCGWpnyeeS1U+/36ghNQ iat-mode=0
