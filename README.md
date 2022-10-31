@@ -12,6 +12,7 @@ P.S.: We are against oppressive regimes!
 Backups:
 ```
 https://codeberg.org/scriptzteam/Tor-Bridges-Collector
+https://tor-bridges-collector.0xc0d3.xyz/
 ```
 
 Types of pluggable transport:
