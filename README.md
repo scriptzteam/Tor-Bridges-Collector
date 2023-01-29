@@ -9,6 +9,8 @@ Please fix your system!
 P.S.: We are against oppressive regimes!
 ```
 
+That's great! Then please stop helping the oppressive regimes and talk with the Tor Project about how this can be fixed. Just going "is broken, plz fix" doesn't really help, especially not when it is know that these systems aren't perfect.
+
 Backups:
 ```
 https://tor-bridges-collector.0xc0d3.xyz/
