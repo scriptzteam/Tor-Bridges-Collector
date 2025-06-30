@@ -11,7 +11,7 @@ P.S.: We are against oppressive regimes!
 
 Backups:
 ```
-No for now.
+https://tor-bridges-collector.0xc0d3.cc/
 ```
 
 Types of pluggable transport:
