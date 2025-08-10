@@ -95,6 +95,7 @@ webtunnel [2001:db8:95a5:dd27:a254:ec7e:25dc:9b04]:443 7D436869375D4044C8AECC71B
 webtunnel [2001:db8:95ab:b020:3a2d:a2cd:958b:d88d]:443 F21C8FDEAD33FFC6F5E64D7C30CC66ACAFE88849 url=https://rustsavvy.website/lo3ilibeis6evaiSh3ov ver=0.0.1
 webtunnel [2001:db8:99de:8cdf:6bc:56f4:5280:3388]:443 ADCF258333077AC78754A42BC9F31C822C4F5644 url=https://3125.null-f.org/emgwJo18Bc6NbxdulAJOOGDf ver=0.0.1
 webtunnel [2001:db8:102a:2660:d56a:f8c4:2970:1434]:443 A633EAF9A7DC0E715183359C38E4DAE4515D1EF7 url=https://tunnel-1.linuxenby.is/srgV09L4fn4kdkoE0vP92nvK ver=0.0.1
+webtunnel [2001:db8:102a:2660:d56a:f8c4:2970:1434]:443 A633EAF9A7DC0E715183359C38E4DAE4515D1EF7 url=https://tunnel-1.linuxenby.is/srgV09L4fn4kdkoE0vP92nvK ver=0.0.2
 webtunnel [2001:db8:234d:72d0:9dca:d0d5:47ee:3e88]:443 E9EC35F8ABF781B05FF95F932BBC8EFC8F5E3700 url=https://skyblond.info/qN5l8Zpr9h8hBjFM4cxukw48 ver=0.0.1
 webtunnel [2001:db8:241b:a34e:64af:268f:ba0f:4b65]:443 233ABF8B1A65676DD31A4EE644635FF87D19E171 url=https://2cold.independentlyreview.com/Tor_WebTunnel ver=0.0.1
 webtunnel [2001:db8:241b:a34e:64af:268f:ba0f:4b65]:443 233ABF8B1A65676DD31A4EE644635FF87D19E171 url=https://2cold.independentlyreview.com/Tor_WebTunnel ver=0.0.2
@@ -129,6 +130,7 @@ webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 9339856F870B1FA903C1B8E2C
 webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 D67168CE52B341FD4A6020AEF44140FBC0D847D4 url=https://yourdomain/and/path ver=0.0.1
 webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.1
 webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.2
+webtunnel [2001:db8:1218:1de7:3a91:22cc:8d7f:197c]:443 DF343521735ABE129910A998817B3A93AA2390FE url=https://coellen.xyz ver=0.0.1
 webtunnel [2001:db8:1367:11e8:8018:6cc9:7462:6b15]:443 F3ABCDD13DC426A601B4E77C8FCE2F33064AFFDA url=https://au.2jl.cc ver=0.0.1
 webtunnel [2001:db8:2482:256e:5136:2e40:bada:38c8]:443 A4771CB90024F1870D622960519945A3E49B40FE url=https://tortunnel.sagorski.org/ ver=0.0.1
 webtunnel [2001:db8:2523:f3b1:21e7:c056:2823:b84d]:443 415F2F7017053333BB8AED35EFBF0C0ADF38D24C url=https://n.yogasku.ng/fuckputin ver=0.0.1
