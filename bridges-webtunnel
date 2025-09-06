@@ -52,6 +52,7 @@ webtunnel [2001:db8:8e1c:d9d4:e257:62a:70db:6e1d]:443 9BB2917363960C7D8B93B44E1B
 webtunnel [2001:db8:8e11:37cf:5167:5fce:4650:c2f8]:443 5AE50E81167318FE0A152D4F050C839DB42AB9B8 url=https://signaling.privacy-vbox.de/s6CjTuyWZOWe9Fbhl7ThQ5Lb ver=0.0.1
 webtunnel [2001:db8:8e11:37cf:5167:5fce:4650:c2f8]:443 5AE50E81167318FE0A152D4F050C839DB42AB9B8 url=https://signaling.privacy-vbox.de/s6CjTuyWZOWe9Fbhl7ThQ5Lb ver=0.0.2
 webtunnel [2001:db8:8e54:c386:c25e:3697:e8f8:377d]:443 3EE00C6568B9DC9F15D1479CEB954FC8856366C3 url=https://cyfog.net/nOzNIJFUBQWlGRhmACMeclRw ver=0.0.1
+webtunnel [2001:db8:8e54:c386:c25e:3697:e8f8:377d]:443 3EE00C6568B9DC9F15D1479CEB954FC8856366C3 url=https://cyfog.net/nOzNIJFUBQWlGRhmACMeclRw ver=0.0.3
 webtunnel [2001:db8:9a40:2336:beae:7301:54c6:1ce3]:443 717E79E703A63E39CF7C4E35A9C27F8A4B1EF7A6 url=https://imperialviolet.cyou/ohm4thief2eipei4sa2A ver=0.0.1
 webtunnel [2001:db8:9ac6:984b:5a6a:f37c:9e5f:ce90]:443 8F26E0661597C9A32E4E889D8FDFF00E061DDDB6 url=https://tor.qinsbro.com/NBawyJhUQmMc6CN0pfe2uQmi ver=0.0.1
 webtunnel [2001:db8:9ac7:52a2:fde4:2dc:f96c:c878]:443 CE0A623FE7378EA65439F3BEF18AC38B87E8CEA4 url=https://volgadigital.com/R7jqJ6Ix5BkhtS8eiH9TZkrf ver=0.0.1
@@ -61,9 +62,12 @@ webtunnel [2001:db8:9c1:ce0d:e478:77be:b5b0:ddf1]:443 10158DAD71E532C7A7415BE1D1
 webtunnel [2001:db8:9c1:ce0d:e478:77be:b5b0:ddf1]:443 10158DAD71E532C7A7415BE1D1867F6F3B64620B url=https://eshop.vonitsanet.gr/VJ9CXwF1jCO0ifUJgZZeaHMx ver=0.0.2
 webtunnel [2001:db8:12ff:2d55:9130:36a7:c49b:d1f4]:443 933C998EC827D1C17CC93D1292BBC41735867CF8 url=https://x7t2qctb.xoomlia.com/qzxrtfmu/ ver=0.0.1
 webtunnel [2001:db8:17e6:8669:9ae4:38cc:f71c:9577]:443 0242A01C5ED89032AB50911166698E75C2E84C89 url=https://galleria.bm-dataprotect.ch ver=0.0.1
+webtunnel [2001:db8:17e6:8669:9ae4:38cc:f71c:9577]:443 BF4A979C77EA858ED0726EDB8891CB8FB317187D url=https://galleria.bm-dataprotect.ch ver=0.0.3
 webtunnel [2001:db8:20ed:5dfb:5780:5a61:2aa8:1fb3]:443 132B0C73579F5EAF5640B3B759289A6DF6E2BB9F url=https://skelleftea.frostbay.org ver=0.0.1
 webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.1
 webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.2
+webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.3
+webtunnel [2001:db8:32bd:a9e9:7284:cfc:21fb:e516]:443 367E04CFEC5816C8D05A673B27B3ECA16F733BCB url=https://recipes.nikolov.cz/gRBwTXcNlBI6y9aUnF4KSC1G ver=0.0.3
 webtunnel [2001:db8:33b3:dd57:3aa3:b004:a26c:c055]:443 FCB287ADDEE4C8C0545764D2804EC9C9D3400E73 url=https://jokester.cloud/ZbZp06Ql5Uq3y0oRii273KMg ver=0.0.1
 webtunnel [2001:db8:35ed:b91c:d25f:5603:5c77:ebeb]:443 57C218E285D2AA1E7077859761421E9C62B9123E url=https://wtb007.unshakled.net:8443/4oeMXyIPcCVtKH7jFkEBvueX ver=0.0.1
 webtunnel [2001:db8:44:614b:42f5:f87c:7072:151]:443 F0C55D7B465C94F71A9A8F0479073BC02565DA36 url=https://quantentoast.de/CDgakmo0QO5Rvo2jRCtu4n9D ver=0.0.1
@@ -104,6 +108,8 @@ webtunnel [2001:db8:241b:a34e:64af:268f:ba0f:4b65]:443 233ABF8B1A65676DD31A4EE64
 webtunnel [2001:db8:241b:a34e:64af:268f:ba0f:4b65]:443 233ABF8B1A65676DD31A4EE644635FF87D19E171 url=https://2cold.independentlyreview.com/Tor_WebTunnel ver=0.0.2
 webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.1
 webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.2
+webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.3
+webtunnel [2001:db8:266a:6ed5:8cad:e053:7e40:46af]:443 A52B79DCC4D26A358CEA0CE96AE7F63C182D14CA url=https://dallinbryce.com/AiBiyFEgV1Kh6jzNkBBUs3KP ver=0.0.3
 webtunnel [2001:db8:345b:f823:7fe0:dec9:ee74:7525]:443 98A44ED60781F69A41B3CB4DCBA5ECE70D0AF247 url=https://b.img-cdn.net/3DV2SZvE8CrQ/ ver=0.0.1
 webtunnel [2001:db8:345b:f823:7fe0:dec9:ee74:7525]:443 98A44ED60781F69A41B3CB4DCBA5ECE70D0AF247 url=https://b.img-cdn.net/3DV2SZvE8CrQ/ ver=0.0.2
 webtunnel [2001:db8:365b:caab:1be4:d672:e78e:c09a]:443 5C4499F49EF591BB28F86DC63E48846F8E610764 url=https://mstdn.party/ou8MiapiZahngai6 ver=0.0.2
@@ -121,6 +127,7 @@ webtunnel [2001:db8:643c:34f7:f296:ce9f:fc39:7c42]:443 415F2F7017053333BB8AED35E
 webtunnel [2001:db8:689f:59c4:3fe7:8e94:1b8a:fff7]:443 44CAAE06541087B1793225BEF2AFA2BEB64A6C1A url=https://vultr.chrishu.dedyn.io ver=0.0.2
 webtunnel [2001:db8:692a:d46b:4a9b:a6e5:faf5:bf05]:443 7592622583CEAFA406D4C0AA69BB4CC948F5F7D3 url=https://www.papermoe.sbs/CiA0ijJotk3slKZBW6I6P2rQFgEEaF ver=0.0.2
 webtunnel [2001:db8:741a:a577:74de:b52:54eb:b816]:443 773874BFA23A8A1A1DB8929A29889B81CEFEBDED url=https://www.langly.fr/yolo ver=0.0.1
+webtunnel [2001:db8:741a:a577:74de:b52:54eb:b816]:443 773874BFA23A8A1A1DB8929A29889B81CEFEBDED url=https://www.langly.fr/yolo ver=0.0.3
 webtunnel [2001:db8:880a:108b:916e:70d9:1f77:d755]:443 933C998EC827D1C17CC93D1292BBC41735867CF8 url=https://wt.xoomlia.com/Lsd6ebydoA5t5JdXGLq71O2I ver=0.0.1
 webtunnel [2001:db8:908e:f294:fd7c:a021:f8a6:1638]:443 19E0AD706448E0314D968A9FB07636162F022AB5 url=https://a.private.st/gIgsXgvrwvJLUlpyl8ZsZ2C7 ver=0.0.2
 webtunnel [2001:db8:951a:a2e3:765c:15f2:8bff:1846]:443 5F09178C5ABCD0291E849DA7863C46CF93068A5A url=https://webtunnel-01.frostbay.org ver=0.0.1
@@ -136,6 +143,7 @@ webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 D67168CE52B341FD4A6020AEF
 webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.1
 webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.2
 webtunnel [2001:db8:1218:1de7:3a91:22cc:8d7f:197c]:443 DF343521735ABE129910A998817B3A93AA2390FE url=https://coellen.xyz ver=0.0.1
+webtunnel [2001:db8:1282:65f4:2ca9:5a32:1918:f31a]:443 EDF46C5F723F323521075F7F8D7E534700D1019E url=https://www.ryanwagner.phd/XObXIrY1IGy8FCmXJp4Rjb9A ver=0.0.3
 webtunnel [2001:db8:1367:11e8:8018:6cc9:7462:6b15]:443 F3ABCDD13DC426A601B4E77C8FCE2F33064AFFDA url=https://au.2jl.cc ver=0.0.1
 webtunnel [2001:db8:1995:c467:4662:af00:3b1e:b339]:443 7193498060A5F6547A991715BA6249A96E75EA23 url=https://nx3.nexusocean.link ver=0.0.1
 webtunnel [2001:db8:2482:256e:5136:2e40:bada:38c8]:443 A4771CB90024F1870D622960519945A3E49B40FE url=https://tortunnel.sagorski.org/ ver=0.0.1
@@ -156,6 +164,7 @@ webtunnel [2001:db8:5536:511a:e79a:e846:1dbd:8078]:443 27DAC461254586ABFE6A1CB86
 webtunnel [2001:db8:5556:4116:7011:c61d:f5bb:fc42]:443 8705A462A7F3AB0EB4548B4A2AD8EEEB1A202C2C url=https://capera.tel/H9AExWAVK0rWaHRuXZ8LZCb6 ver=0.0.1
 webtunnel [2001:db8:5609:50fd:a4a7:5e00:7603:164e]:443 EB1D7760808F3BB9A7A3ACD9C16EFA4212AF9684 url=https://speedwaycdn.website/U1ancqLu6nPakaYQEl9h ver=0.0.1
 webtunnel [2001:db8:5985:711a:a60e:61a0:1260:b42e]:443 58DA67BD879E9239FCD4A590E25118BB2118CB3C url=https://fdmf.ch/QCjqMFJumKjWgB7BFaOc04dN ver=0.0.1
+webtunnel [2001:db8:5985:711a:a60e:61a0:1260:b42e]:443 58DA67BD879E9239FCD4A590E25118BB2118CB3C url=https://fdmf.ch/QCjqMFJumKjWgB7BFaOc04dN ver=0.0.3
 webtunnel [2001:db8:6058:da1e:73ae:7895:269d:65e8]:443 55F0AFE5713A0ECC4EFBE654031ED0DB3FC6482B url=https://wtb002.unshakled.net/O6pZlZqf63zx4k1fIBLWSDu0 ver=0.0.1
 webtunnel [2001:db8:6195:44bf:6c67:d534:4f12:f0b2]:443 BA122CD1D40BA9F4732BE9A119C3097600D477E9 url=https://mwumba.com ver=0.0.1
 webtunnel [2001:db8:6281:baa0:afc0:9579:b303:59a7]:443 377CF6FCBFD2E57D0775EA6F2E8D3EF0D8CDD02F url=https://cryptomeanscryptography.club/TfDS3X50Rf3dR5x3Q3vLS25o ver=0.0.1
@@ -203,6 +212,7 @@ webtunnel [2001:db8:a634:bf27:a89e:4:2de:cb6]:443 8943BF53C9561C75A7302ED59575EF
 webtunnel [2001:db8:a981:762a:19f5:4d0f:daa8:d887]:443 7CA2F0AA1BFD007B8E9E744E6553F087483800B7 url=https://stop.rechts.jetzt/32DmToautru5QyLt8v3Q3piZ ver=0.0.2
 webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.1
 webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.2
+webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.3
 webtunnel [2001:db8:aa65:68cf:bd2d:50fe:784f:1b24]:443 08B85FE2212DC548403FB684265D2B63B9C2C237 url=https://awsfft.cdn.leohearts.com/R3lHLJhq7kR54k2d9iDATWhz ver=0.0.1
 webtunnel [2001:db8:ab58:8734:85c3:6f17:4e1d:dcb]:443 483C60C25DA1A59D3A29DCBEC986BC5BA5465D1B url=https://git.joinplu.me/b9dda5e891a64d31f1565d978ab29af14a03c409cfee46bfebb9e182e877eac3 ver=0.0.1
 webtunnel [2001:db8:abcb:64c9:1e41:47e8:1985:cd88]:443 CA0E738086D16BC752E2A6C6BE8B05EE6F106AB9 url=https://telcomsoruq.link/zNd1BTKQMoOIkGyCoeQ8sRAL ver=0.0.1
@@ -260,6 +270,7 @@ webtunnel [2001:db8:c525:22a6:6b6a:e916:9ef7:8152]:443 8A1EE5824071CA39E7D76BD57
 webtunnel [2001:db8:c525:22a6:6b6a:e916:9ef7:8152]:443 8A1EE5824071CA39E7D76BD579FB2AEF2B52E524 url=https://c.img-cdn.net/yE4s7KehTFyj/ ver=0.0.2
 webtunnel [2001:db8:c744:83a9:b870:eb3a:947b:9be8]:443 D8B44D31E5719552DB634F58A0A4C96187FA5EF4 url=https://rusthelp.org/och8theishaephisheeX ver=0.0.1
 webtunnel [2001:db8:cb0d:478a:6b61:1514:9757:53c1]:443 1FE8C81ED04C5F1707ED0761A32D3B1E27F64B6C url=https://blog.gus.computer/U7a5bfqOUsCsH4i4yue1744l ver=0.0.1
+webtunnel [2001:db8:cb0d:478a:6b61:1514:9757:53c1]:443 1FE8C81ED04C5F1707ED0761A32D3B1E27F64B6C url=https://blog.gus.computer/U7a5bfqOUsCsH4i4yue1744l ver=0.0.3
 webtunnel [2001:db8:cb62:8f57:5a43:d9d0:a488:27e2]:443 16D0EF186DA080CE7A4968072920E08CA7729AED url=https://distributedcontent.website/ahxabaic5Opheir ver=0.0.1
 webtunnel [2001:db8:cbb2:b5c:3c78:31fd:b13d:538d]:443 0DC4519194398C4B3259774E77274DF08552E44A url=https://evillarin.com ver=0.0.2
 webtunnel [2001:db8:cc50:fa:264f:d1b8:79a:6a81]:443 38C7ADB125A7AEA7A668C5AE300F6DCEA6BFB340 url=https://surf.mysticboarding.cz/S2vNtMmDc72E3uSmAroQaUyj ver=0.0.1
